@@ -1,3 +1,7 @@
 .env
 
 *.parquet
+*.pt
+
+/__pycache__
+
